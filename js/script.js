@@ -22,21 +22,29 @@
                 yScroll: "left"
             });
 
-            $("#select-music-title").live("click", function() {
-                var hasclass = $(this).hasClass("dropdown");
-                if (hasclass == false) {
-                    $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist").css('display', 'block');
-                    $(this).addClass("dropdown");
-                }
-            });
+            // $("#select-music-title").live("click", function() {
+            //     var hasclass = $(this).hasClass("dropdown");
+            //     if (hasclass == false) {
+            //         $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist").css('display', 'block');
+            //         $(this).addClass("dropdown");
+            //     }
+            // });
 
-            $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist ul").live("click", function() {
-                var hasclass = $('#select-music-title').hasClass("dropdown");
-                if (hasclass == true) {
-                    $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist").css('display', 'none');
-                    $('#select-music-title').removeClass("dropdown");
-                }
-            });
+            // $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist ul").live("click", function() {
+            //     var hasclass = $('#select-music-title').hasClass("dropdown");
+            //     if (hasclass == true) {
+            //         $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist").css('display', 'none');
+            //         $('#select-music-title').removeClass("dropdown");
+            //     }
+            // });
+                        $( "#select-music-title" ).click(function() {
+   $("#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist").toggle('display');
+   if ( display === true ) {
+  $( "#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist" ).show();
+} else if ( display === false ) {
+  $( "#block-views-517c9052369d7981221c62d5a16828e7 .jp-playlist" ).hide();
+}
+});
 
 
             window.onload = function() {
