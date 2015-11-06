@@ -1,0 +1,221 @@
+/**
+ * @file
+ * Positioning for a fixed-width, desktop-centric layout.
+ *
+ * Define CSS classes to create a table-free, 3-column, 2-column, or single
+ * column layout depending on whether blocks are enabled in the left or right
+ * columns.
+ *
+ * This layout uses the Zen Grids plugin for Compass: http://zengrids.com
+ */
+
+// We are going to create a 980px wide, 5 column grid with 20px gutters between
+// columns (applied as 10px of left/right padding on each column).
+$zen-column-count:  5;
+$zen-gutter-width:  10px;
+$zen-grid-width:    1200px;
+
+// If you need IE6/7 support for box-sizing: border-box (default), see _init.scss
+// Since the same CSS unit for grid width and gutter width are set here
+// we can use box-sizing: content-box; without worrying about polyfills.
+$zen-box-sizing: content-box;
+
+// You can generate more efficient CSS if you manually apply the
+// zen-grid-item-base mixin to all grid items from within a single ruleset.
+$zen-auto-include-item-base: false;
+// $zen-auto-include-flow-item-base: false;
+
+// Suppress this section of CSS for RTL layouts since it contains no LTR-specific styles.
+@if $zen-reverse-all-floats == false {
+
+/**
+ * Center the page.
+ *
+ * If you want to make the page a fixed width and centered in the viewport,
+ * this is the standards-compliant way to do that.
+ */
+#page,
+.region-bottom {
+  margin-left: auto;
+  margin-right: auto;
+  width: $zen-grid-width;
+}
+
+/* Apply the shared properties of grid items in a single, efficient ruleset. */
+#header,
+#content,
+#navigation,
+.region-sidebar-first,
+.region-sidebar-second,
+#footer {
+  // See the note about $zen-auto-include-item-base above.
+  @include zen-grid-item-base();
+}
+
+/* Containers for grid items and flow items. */
+#header,
+#main,
+#footer {
+  @include zen-grid-container();
+}
+
+/* Navigation bar */
+#main {
+  /* Move all the children of #main down to make room. */
+  padding-top: $nav-height;
+  position: relative;
+}
+#navigation {
+  /* Move the navbar up inside #main's padding. */
+  position: absolute;
+  top: 0;
+  height: $nav-height;
+  width: $zen-grid-width - $zen-gutter-width;
+}
+
+} // End of @if $zen-reverse-all-floats == true
+
+/**
+ * The layout when there is only one sidebar, the left one.
+ */
+.sidebar-first {
+  /* Span 4 columns, starting in 2nd column from left. */
+  #content {
+    @include zen-grid-item(4, 2);
+  }
+
+  /* Span 1 column, starting in 1st column from left. */
+  .region-sidebar-first {
+    @include zen-grid-item(1, 1);
+  }
+}
+
+/**
+ * The layout when there is only one sidebar, the right one.
+ */
+.sidebar-second {
+  /* Span 4 columns, starting in 1st column from left. */
+  #content {
+    @include zen-grid-item(4, 1);
+  }
+
+  /* Span 1 column, starting in 5th column from left. */
+  .region-sidebar-second {
+    @include zen-grid-item(1, 5);
+  }
+}
+
+/**
+ * The layout when there are two sidebars.
+ */
+.two-sidebars {
+  /* Span 3 columns, starting in 2nd column from left. */
+  #content {
+    @include zen-grid-item(3, 2);
+  }
+
+  /* Span 1 column, starting in 1st column from left. */
+  .region-sidebar-first {
+    @include zen-grid-item(1, 1);
+  }
+
+  /* Span 1 column, starting in 5th column from left. */
+  .region-sidebar-second {
+    @include zen-grid-item(1, 5);
+  }
+}
+
+$zen-column-count:  24;
+body.clients{
+  height: 1200px;
+  #block-views-f19c094bfb59e86e267553fae3fd9338{
+    display: none;
+  }
+}
+
+
+#header{
+  background: url(../images/head.png) no-repeat left top;
+  height: 125px;
+  a#logo{
+    padding: 20px;
+  }
+
+}
+//end of header
+#main{
+  padding-top: 70px;
+  #content{
+    #main-slideshow{
+        @include zen-grid-item(15,1);
+        @include zen-grid-item-base();
+        height: 480px;
+        padding-left: 0px;
+    }
+    #playerlist{
+      @include zen-grid-item(8,1,right);
+    }
+    #img-map-link{
+        @include zen-clear(right);
+    }
+    #external-link{
+      @include zen-clear(right);
+        @include zen-grid-item(9,1,right);
+    }
+    #system-message{
+      @include zen-clear();
+    
+      padding-left: 0px;
+    }
+    
+
+    #voice-row{
+      @include zen-clear();    
+      width: 1175px;
+      padding-left: 5px;
+      margin-top: 10px;
+    }
+    #show-row{
+      @include zen-clear();    
+      width: 1175px;
+      padding-left: 5px;
+      margin-top: 10px;
+    }
+    #clients-row{
+      @include zen-clear();    
+      width: 1175px;
+      padding-left: 5px;
+      margin-top: 30px;
+    }
+
+  }
+  //end of content
+}
+//end of main
+
+#footer{
+
+  #block-views-f19c094bfb59e86e267553fae3fd9338{
+      @include zen-clear();    
+      @include zen-grid-item(24,1);
+      margin-top: 0px;
+  }
+  #block-views-brianfunshine-foot-info-block-1{
+    @include zen-clear(); 
+    @include zen-grid-item(24,1);   
+    .view-content{
+      @include zen-grid-item(7,7);
+    }
+  }
+
+  #block-block-1{ 
+      @include zen-grid-item(8,1,right);
+      height: 434px;
+      padding-left: 5px;
+      margin-top: 0px; 
+  }
+  #block-block-2{
+    @include zen-clear();    
+    @include zen-grid-item(24,1);
+  }
+}

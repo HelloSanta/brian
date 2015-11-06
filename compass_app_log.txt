@@ -1,0 +1,968 @@
+2014-06-15 13:06:54 overwrite css/styles.css 
+2014-06-15 13:06:58 identical css/styles.css 
+2014-06-15 13:07:16     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:07:16 overwrite css/styles-rtl.css 
+2014-06-15 13:07:17     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:07:17 identical css/styles-rtl.css 
+2014-06-15 13:07:47     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:07:47 overwrite css/styles-rtl.css 
+2014-06-15 13:07:48 identical css/styles.css 
+2014-06-15 13:09:18     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:09:18 identical css/styles-rtl.css 
+2014-06-15 13:09:19 identical css/styles.css 
+2014-06-15 13:09:30     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:09:30 identical css/styles-rtl.css 
+2014-06-15 13:09:32     error sass/styles.scss (Line 16: File to import not found or unreadable: layouts/responsive.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:09:32 overwrite css/styles.css 
+2014-06-15 13:09:49     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:09:49 identical css/styles-rtl.css 
+2014-06-15 13:09:49 overwrite css/styles.css 
+2014-06-15 13:10:47     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:10:47 identical css/styles-rtl.css 
+2014-06-15 13:10:48 overwrite css/styles.css 
+2014-06-15 13:10:59     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:10:59 identical css/styles-rtl.css 
+2014-06-15 13:10:59 overwrite css/styles.css 
+2014-06-15 13:11:04     error sass/styles-rtl.scss (Line 13: File to import not found or unreadable: layouts/responsive-rtl.
+Load paths:
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/blueprint/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_0.12/compass-0.12.2/frameworks/compass/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-960-plugin-f4bfe8555a7d2cae09bc/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/heygrady-compass-html5-boilerplate-4cc8815/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/compass-h5bp/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/bootstrap-sass-2.2.2.0/vendor/assets/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/susy-1.0.4/sass
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/sassy-math-1.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_common/modular-scale-1.0.2/stylesheets
+  /Applications/compass.app/Contents/Resources/lib/ruby/compass_extensions/zurb-foundation-3.2.2/scss
+  /Library/WebServer/Documents/brianfunshine/sites/all/themes/brianfunshine/sass-extensions/zen-grids/stylesheets
+  Compass::SpriteImporter)
+2014-06-15 13:11:04 identical css/styles-rtl.css 
+2014-06-15 13:11:04 identical css/styles.css 
+2014-06-15 13:11:58 overwrite css/styles.css 
+2014-06-15 13:46:05 overwrite css/styles.css 
+2014-06-15 13:46:39 overwrite css/styles.css 
+2014-06-15 13:49:24 overwrite css/styles.css 
+2014-06-15 13:49:42 overwrite css/styles.css 
+2014-06-15 13:50:16 overwrite css/styles.css 
+2014-06-15 13:51:13 overwrite css/styles.css 
+2014-06-15 14:19:50 overwrite css/styles.css 
+2014-06-15 14:20:05 overwrite css/styles.css 
+2014-06-15 14:20:13 overwrite css/styles.css 
+2014-06-15 14:20:54 overwrite css/styles.css 
+2014-06-15 14:21:14 overwrite css/styles.css 
+2014-06-15 14:21:34 overwrite css/styles.css 
+2014-06-15 14:21:59 overwrite css/styles.css 
+2014-06-15 14:22:08 overwrite css/styles.css 
+2014-06-15 14:22:19 overwrite css/styles.css 
+2014-06-15 14:22:50 overwrite css/styles.css 
+2014-06-15 14:26:12 overwrite css/styles.css 
+2014-06-15 14:26:37 overwrite css/styles.css 
+2014-06-15 14:26:59 overwrite css/styles.css 
+2014-06-15 14:27:08 overwrite css/styles.css 
+2014-06-15 14:27:17 overwrite css/styles.css 
+2014-06-15 14:32:28 overwrite css/styles.css 
+2014-06-15 14:32:55 overwrite css/styles.css 
+2014-06-15 14:33:11 overwrite css/styles.css 
+2014-06-15 14:33:43 overwrite css/styles.css 
+2014-06-15 14:34:07 overwrite css/styles.css 
+2014-06-15 14:34:22 overwrite css/styles.css 
+2014-06-15 14:34:37 overwrite css/styles.css 
+2014-06-15 14:39:07 overwrite css/styles.css 
+2014-06-15 14:41:53 overwrite css/styles.css 
+2014-06-15 14:43:48 overwrite css/styles.css 
+2014-06-15 14:44:13 overwrite css/styles.css 
+2014-06-15 15:54:08 identical css/styles.css 
+2014-06-15 15:55:02 overwrite css/styles.css 
+2014-06-15 15:56:47 overwrite css/styles.css 
+2014-06-15 15:56:57 overwrite css/styles.css 
+2014-06-15 15:57:06 overwrite css/styles.css 
+2014-06-15 15:57:37 overwrite css/styles.css 
+2014-06-15 16:01:32 overwrite css/styles.css 
+2014-06-15 16:17:46 overwrite css/styles.css 
+2014-06-15 16:19:49 overwrite css/styles.css 
+2014-06-15 16:24:08 overwrite css/styles.css 
+2014-06-15 16:35:03 overwrite css/styles.css 
+2014-06-15 16:35:50 overwrite css/styles.css 
+2014-06-15 16:36:07 overwrite css/styles.css 
+2014-06-15 16:36:26 overwrite css/styles.css 
+2014-06-15 16:36:41 overwrite css/styles.css 
+2014-06-15 16:36:55 overwrite css/styles.css 
+2014-06-15 16:37:04 overwrite css/styles.css 
+2014-06-15 16:37:26 overwrite css/styles.css 
+2014-06-15 16:37:51 overwrite css/styles.css 
+2014-06-15 16:42:30 overwrite css/styles.css 
+2014-06-15 16:43:03 overwrite css/styles.css 
+2014-06-15 16:43:19 overwrite css/styles.css 
+2014-06-15 16:45:31 overwrite css/styles.css 
+2014-06-15 16:46:22 overwrite css/styles.css 
+2014-06-15 21:13:19 overwrite css/styles.css 
+2014-06-16 13:26:22 overwrite css/styles.css 
+2014-06-16 13:26:37 overwrite css/styles.css 
+2014-06-16 13:27:21 overwrite css/styles.css 
+2014-06-16 13:28:07 overwrite css/styles.css 
+2014-06-16 13:30:26 overwrite css/styles.css 
+2014-06-16 13:32:08 identical css/styles.css 
+2014-06-16 13:32:33 overwrite css/styles.css 
+2014-06-16 13:32:40 identical css/styles.css 
+2014-06-16 13:33:32 overwrite css/styles.css 
+2014-06-16 14:48:40 overwrite css/styles.css 
+2014-06-16 14:48:53 identical css/styles.css 
+2014-06-16 15:21:50 overwrite css/styles.css 
+2014-06-16 15:22:28 overwrite css/styles.css 
+2014-06-16 15:22:53 overwrite css/styles.css 
+2014-06-16 15:23:32 overwrite css/styles.css 
+2014-06-16 15:23:52 overwrite css/styles.css 
+2014-06-16 15:23:56 overwrite css/styles.css 
+2014-06-16 15:24:04 overwrite css/styles.css 
+2014-06-16 15:24:22 overwrite css/styles.css 
+2014-06-16 15:28:23 overwrite css/styles.css 
+2014-06-16 15:32:40     error sass/styles.scss (Line 107: Invalid CSS after "		.": expected class name, was ".jp-audio{")
+2014-06-16 15:32:40 overwrite css/styles.css 
+2014-06-16 15:32:59 overwrite css/styles.css 
+2014-06-16 15:41:05 overwrite css/styles.css 
+2014-06-16 15:41:13 overwrite css/styles.css 
+2014-06-16 15:41:44 overwrite css/styles.css 
+2014-06-16 15:42:06 overwrite css/styles.css 
+2014-06-16 15:42:40 overwrite css/styles.css 
+2014-06-16 15:43:58 overwrite css/styles.css 
+2014-06-16 15:44:27 overwrite css/styles.css 
+2014-06-16 16:46:24 overwrite css/styles.css 
+2014-06-16 18:01:48 overwrite css/styles.css 
+2014-06-16 18:02:20 overwrite css/styles.css 
+2014-06-16 18:05:09 overwrite css/styles.css 
+2014-06-16 18:06:38 overwrite css/styles.css 
+2014-06-16 18:07:49 overwrite css/styles.css 
+2014-06-16 18:15:02 overwrite css/styles.css 
+2014-06-16 18:15:51 overwrite css/styles.css 
+2014-06-16 18:16:35 overwrite css/styles.css 
+2014-06-16 18:17:30 overwrite css/styles.css 
+2014-06-16 18:26:08 overwrite css/styles.css 
+2014-06-16 18:26:26 overwrite css/styles.css 
+2014-06-16 18:26:47 overwrite css/styles.css 
+2014-06-16 18:27:08 overwrite css/styles.css 
+2014-06-16 18:27:35 overwrite css/styles.css 
+2014-06-16 18:27:38 overwrite css/styles.css 
+2014-06-16 18:28:16 overwrite css/styles.css 
+2014-06-16 18:28:53 overwrite css/styles.css 
+2014-06-16 18:29:13 overwrite css/styles.css 
+2014-06-16 18:29:31 overwrite css/styles.css 
+2014-06-16 18:29:46 overwrite css/styles.css 
+2014-06-16 18:35:53 overwrite css/styles.css 
+2014-06-16 18:36:28 overwrite css/styles.css 
+2014-06-16 18:36:56 overwrite css/styles.css 
+2014-06-16 18:37:00 overwrite css/styles.css 
+2014-06-16 18:37:10 overwrite css/styles.css 
+2014-06-16 18:37:17 overwrite css/styles.css 
+2014-06-16 18:37:25 overwrite css/styles.css 
+2014-06-16 18:37:58 overwrite css/styles.css 
+2014-06-16 18:38:28 overwrite css/styles.css 
+2014-06-16 18:38:50 overwrite css/styles.css 
+2014-06-16 18:39:07 overwrite css/styles.css 
+2014-06-16 18:39:24 overwrite css/styles.css 
+2014-06-16 18:39:38 overwrite css/styles.css 
+2014-06-16 18:45:59 overwrite css/styles.css 
+2014-06-16 18:47:26 overwrite css/styles.css 
+2014-06-16 18:47:44 overwrite css/styles.css 
+2014-06-16 18:47:52 overwrite css/styles.css 
+2014-06-16 18:48:01 overwrite css/styles.css 
+2014-06-16 18:48:11 overwrite css/styles.css 
+2014-06-16 18:48:22 overwrite css/styles.css 
+2014-06-16 18:48:37 overwrite css/styles.css 
+2014-06-16 18:48:43 overwrite css/styles.css 
+2014-06-16 18:48:59 overwrite css/styles.css 
+2014-06-16 18:49:08 overwrite css/styles.css 
+2014-06-16 18:49:17 overwrite css/styles.css 
+2014-06-16 18:54:41 overwrite css/styles.css 
+2014-06-16 18:55:37 overwrite css/styles.css 
+2014-06-16 18:56:17 overwrite css/styles.css 
+2014-06-16 18:58:23 overwrite css/styles.css 
+2014-06-16 18:59:23 overwrite css/styles.css 
+2014-06-16 18:59:35 overwrite css/styles.css 
+2014-06-16 18:59:59 overwrite css/styles.css 
+2014-06-16 19:00:11 overwrite css/styles.css 
+2014-06-16 19:00:19 overwrite css/styles.css 
+2014-06-16 19:00:25 overwrite css/styles.css 
+2014-06-16 19:00:32 overwrite css/styles.css 
+2014-06-16 19:03:08 overwrite css/styles.css 
+2014-06-16 19:03:40 overwrite css/styles.css 
+2014-06-16 19:06:31 overwrite css/styles.css 
+2014-06-16 19:06:40 overwrite css/styles.css 
+2014-06-16 19:06:49 overwrite css/styles.css 
+2014-06-16 19:06:56 overwrite css/styles.css 
+2014-06-16 19:07:02 overwrite css/styles.css 
+2014-06-16 19:07:17 overwrite css/styles.css 
+2014-06-16 19:07:28 overwrite css/styles.css 
+2014-06-16 19:09:40 overwrite css/styles.css 
+2014-06-16 19:33:53 overwrite css/styles.css 
+2014-06-16 19:34:13 overwrite css/styles.css 
+2014-06-16 19:35:10 overwrite css/styles.css 
+2014-06-16 19:35:28 overwrite css/styles.css 
+2014-06-16 19:36:07 overwrite css/styles.css 
+2014-06-16 19:36:46 overwrite css/styles.css 
+2014-06-16 19:43:08 overwrite css/styles.css 
+2014-06-16 19:46:16 overwrite css/styles.css 
+2014-06-16 19:46:43 overwrite css/styles.css 
+2014-06-16 19:47:22 overwrite css/styles.css 
+2014-06-16 19:47:43 overwrite css/styles.css 
+2014-06-16 19:50:58 overwrite css/styles.css 
+2014-06-16 19:56:40 overwrite css/styles.css 
+2014-06-16 19:57:21 overwrite css/styles.css 
+2014-06-16 19:57:52 overwrite css/styles.css 
+2014-06-16 20:00:31 overwrite css/styles.css 
+2014-06-16 20:03:23 overwrite css/styles.css 
+2014-06-16 20:04:21 overwrite css/styles.css 
+2014-06-16 20:05:07 overwrite css/styles.css 
+2014-06-16 20:05:28 overwrite css/styles.css 
+2014-06-16 20:05:46 overwrite css/styles.css 
+2014-06-16 20:06:43 overwrite css/styles.css 
+2014-06-16 20:09:31 overwrite css/styles.css 
+2014-06-16 20:11:31 overwrite css/styles.css 
+2014-06-16 20:12:27 overwrite css/styles.css 
+2014-06-16 20:12:48 overwrite css/styles.css 
+2014-06-16 20:12:57 overwrite css/styles.css 
+2014-06-16 20:13:06 overwrite css/styles.css 
+2014-06-16 20:13:15 overwrite css/styles.css 
+2014-06-16 20:20:33 overwrite css/styles.css 
+2014-06-16 20:21:01 overwrite css/styles.css 
+2014-06-16 20:21:36 identical css/styles.css 
+2014-06-16 20:22:27 overwrite css/styles.css 
+2014-06-16 20:22:40 overwrite css/styles.css 
+2014-06-16 20:25:10 overwrite css/styles.css 
+2014-06-16 20:25:33 overwrite css/styles.css 
+2014-06-16 20:25:52 overwrite css/styles.css 
+2014-06-16 20:26:22 overwrite css/styles.css 
+2014-06-16 20:27:33 overwrite css/styles.css 
+2014-06-16 20:28:12 overwrite css/styles.css 
+2014-06-16 20:28:27 overwrite css/styles.css 
+2014-06-16 20:29:44 overwrite css/styles.css 
+2014-06-16 20:41:42 overwrite css/styles.css 
+2014-06-16 20:43:20 overwrite css/styles.css 
+2014-06-16 20:43:30 overwrite css/styles.css 
+2014-06-16 20:44:44 overwrite css/styles.css 
+2014-06-16 20:45:32 overwrite css/styles.css 
+2014-06-16 20:46:09 overwrite css/styles.css 
+2014-06-16 20:47:35 overwrite css/styles.css 
+2014-06-16 20:47:57 overwrite css/styles.css 
+2014-06-16 20:48:11 overwrite css/styles.css 
+2014-06-16 20:48:36 overwrite css/styles.css 
+2014-06-16 20:49:00 overwrite css/styles.css 
+2014-06-16 20:49:36 overwrite css/styles.css 
+2014-06-16 20:49:48 overwrite css/styles.css 
+2014-06-16 20:51:05 overwrite css/styles.css 
+2014-06-16 20:51:48 overwrite css/styles.css 
+2014-06-16 20:51:57 overwrite css/styles.css 
+2014-06-16 20:52:12 overwrite css/styles.css 
+2014-06-16 20:52:48 overwrite css/styles.css 
+2014-06-16 20:56:41 overwrite css/styles.css 
+2014-06-16 20:56:53 overwrite css/styles.css 
+2014-06-16 20:57:07 overwrite css/styles.css 
+2014-06-16 20:57:15 overwrite css/styles.css 
+2014-06-16 20:57:27 overwrite css/styles.css 
+2014-06-16 20:58:09 overwrite css/styles.css 
+2014-06-16 20:58:59 overwrite css/styles.css 
+2014-06-16 20:59:43 overwrite css/styles.css 
+2014-06-16 21:00:15 overwrite css/styles.css 
+2014-06-16 21:00:55 overwrite css/styles.css 
+2014-06-16 21:01:05 overwrite css/styles.css 
+2014-06-16 21:01:44 overwrite css/styles.css 
+2014-06-16 21:01:52 overwrite css/styles.css 
+2014-06-16 21:02:12 overwrite css/styles.css 
+2014-06-16 21:02:32 overwrite css/styles.css 
+2014-06-16 21:03:01 overwrite css/styles.css 
+2014-06-16 21:03:15 overwrite css/styles.css 
+2014-06-16 21:03:38 overwrite css/styles.css 
+2014-06-16 21:04:03 overwrite css/styles.css 
+2014-06-16 21:04:15 overwrite css/styles.css 
+2014-06-16 21:04:23 overwrite css/styles.css 
+2014-06-16 21:04:31 overwrite css/styles.css 
+2014-06-16 21:04:51 overwrite css/styles.css 
+2014-06-16 21:05:05 overwrite css/styles.css 
+2014-06-16 21:05:57 overwrite css/styles.css 
+2014-06-16 21:06:42 overwrite css/styles.css 
+2014-06-17 01:07:57 overwrite css/styles.css 
+2014-06-17 01:08:36 overwrite css/styles.css 
+2014-06-17 01:09:06 overwrite css/styles.css 
+2014-06-17 01:09:19 overwrite css/styles.css 
+2014-06-17 01:09:37 overwrite css/styles.css 
+2014-06-17 01:09:46 overwrite css/styles.css 
+2014-06-17 01:09:56 overwrite css/styles.css 
+2014-06-17 01:10:09 overwrite css/styles.css 
+2014-06-17 01:10:38 overwrite css/styles.css 
+2014-06-17 01:11:23 overwrite css/styles.css 
+2014-06-17 01:11:43 overwrite css/styles.css 
+2014-06-17 01:12:12 overwrite css/styles.css 
+2014-06-17 01:13:24 overwrite css/styles.css 
+2014-06-17 01:13:47 overwrite css/styles.css 
+2014-06-17 01:14:03 overwrite css/styles.css 
+2014-06-17 01:14:13 overwrite css/styles.css 
+2014-06-17 01:14:27 overwrite css/styles.css 
+2014-06-17 01:15:19 overwrite css/styles.css 
+2014-06-17 01:15:36 overwrite css/styles.css 
+2014-06-17 01:15:53 overwrite css/styles.css 
+2014-06-17 01:16:13 overwrite css/styles.css 
+2014-06-17 01:26:43 overwrite css/styles.css 
+2014-06-17 01:27:15 overwrite css/styles.css 
+2014-06-17 01:27:37 overwrite css/styles.css 
+2014-06-18 17:58:41 overwrite css/styles.css 
+2014-06-18 17:59:13 overwrite css/styles.css 
+2014-06-18 19:28:48 overwrite css/styles.css 
+2014-06-18 19:29:32 overwrite css/styles.css 
+2014-06-18 19:30:46 overwrite css/styles.css 
+2014-06-18 19:30:59 overwrite css/styles.css 
+2014-06-18 19:31:26 overwrite css/styles.css 
+2014-06-18 19:33:14 overwrite css/styles.css 
+2014-06-18 19:35:10 overwrite css/styles.css 
+2014-06-18 19:35:21 overwrite css/styles.css 
+2014-06-18 19:35:34 overwrite css/styles.css 
+2014-06-18 19:36:08 overwrite css/styles.css 
+2014-06-18 19:37:32 overwrite css/styles.css 
+2014-06-18 19:37:35 overwrite css/styles.css 
+2014-06-18 19:38:08 overwrite css/styles.css 
+2014-06-18 19:39:08 overwrite css/styles.css 
+2014-06-18 19:39:28 overwrite css/styles.css 
+2014-06-18 19:39:31 overwrite css/styles.css 
+2014-06-18 19:41:04 overwrite css/styles.css 
+2014-06-18 19:41:46 overwrite css/styles.css 
+2014-06-18 19:41:59 overwrite css/styles.css 
+2014-06-18 19:42:10 overwrite css/styles.css 
+2014-06-18 19:42:20 overwrite css/styles.css 
+2014-06-18 19:42:29 overwrite css/styles.css 
+2014-06-18 19:42:35 overwrite css/styles.css 
+2014-06-18 19:42:44 overwrite css/styles.css 
+2014-06-18 19:42:52 overwrite css/styles.css 
+2014-06-18 19:44:17 overwrite css/styles.css 
+2014-06-18 19:44:40 overwrite css/styles.css 
+2014-06-18 19:46:17 overwrite css/styles.css 
+2014-06-18 19:46:43 overwrite css/styles.css 
+2014-06-18 19:47:25 overwrite css/styles.css 
+2014-06-18 19:50:58 overwrite css/styles.css 
+2014-06-18 19:51:20 overwrite css/styles.css 
+2014-06-18 19:51:29 overwrite css/styles.css 
+2014-06-18 19:52:04 overwrite css/styles.css 
+2014-06-18 19:52:25 overwrite css/styles.css 
+2014-06-18 19:52:35 overwrite css/styles.css 
+2014-06-18 19:52:50 overwrite css/styles.css 
+2014-06-18 19:53:01 overwrite css/styles.css 
+2014-06-18 19:53:08 overwrite css/styles.css 
+2014-06-18 19:53:19 overwrite css/styles.css 
+2014-06-18 19:53:44 overwrite css/styles.css 
+2014-06-18 19:53:52 overwrite css/styles.css 
+2014-06-18 19:57:14 overwrite css/styles.css 
+2014-06-18 19:57:43 overwrite css/styles.css 
+2014-06-18 20:03:16 overwrite css/styles.css 
+2014-06-18 20:06:18 overwrite css/styles.css 
+2014-06-18 20:08:11 overwrite css/styles.css 
+2014-06-18 20:09:13 overwrite css/styles.css 
+2014-06-18 20:09:30 overwrite css/styles.css 
+2014-06-18 20:10:14 overwrite css/styles.css 
+2014-06-18 20:11:46 overwrite css/styles.css 
+2014-06-18 20:12:02 overwrite css/styles.css 
+2014-06-18 20:12:14 overwrite css/styles.css 
+2014-06-18 20:12:37 overwrite css/styles.css 
+2014-06-18 20:12:58 overwrite css/styles.css 
+2014-06-18 20:13:22 overwrite css/styles.css 
+2014-06-18 20:14:07 overwrite css/styles.css 
+2014-06-18 20:14:17 overwrite css/styles.css 
+2014-06-18 20:14:25 overwrite css/styles.css 
+2014-06-18 20:14:34 overwrite css/styles.css 
+2014-06-18 20:20:40 overwrite css/styles.css 
+2014-06-18 20:20:58 overwrite css/styles.css 
+2014-06-18 20:21:38 overwrite css/styles.css 
+2014-06-18 20:22:04 overwrite css/styles.css 
+2014-06-18 20:22:44 overwrite css/styles.css 
+2014-06-18 20:23:07 overwrite css/styles.css 
+2014-06-18 20:23:48 overwrite css/styles.css 
+2014-06-18 20:23:57 overwrite css/styles.css 
+2014-06-18 20:26:39 overwrite css/styles.css 
+2014-06-18 20:26:55 overwrite css/styles.css 
+2014-06-18 20:27:04 overwrite css/styles.css 
+2014-06-18 20:27:11 overwrite css/styles.css 
+2014-06-18 20:28:18 overwrite css/styles.css 
+2014-06-18 20:29:02 overwrite css/styles.css 
+2014-06-18 20:29:18 overwrite css/styles.css 
+2014-06-18 20:29:33 overwrite css/styles.css 
+2014-06-18 20:29:38 overwrite css/styles.css 
+2014-06-18 20:29:57 overwrite css/styles.css 
+2014-06-18 20:30:10 overwrite css/styles.css 
+2014-06-18 20:30:40 overwrite css/styles.css 
+2014-06-18 20:30:57 overwrite css/styles.css 
+2014-06-18 20:32:17 overwrite css/styles.css 
+2014-06-18 20:32:57 overwrite css/styles.css 
+2014-06-18 20:33:12 overwrite css/styles.css 
+2014-06-18 20:33:37 overwrite css/styles.css 
+2014-06-18 20:33:45 overwrite css/styles.css 
+2014-06-18 20:34:00 overwrite css/styles.css 
+2014-06-18 20:34:07 overwrite css/styles.css 
+2014-06-18 20:36:30 overwrite css/styles.css 
+2014-06-18 20:36:39 overwrite css/styles.css 
+2014-06-18 20:36:57 overwrite css/styles.css 
+2014-06-18 20:37:12 overwrite css/styles.css 
+2014-06-18 20:37:27 overwrite css/styles.css 
+2014-06-18 20:37:39 overwrite css/styles.css 
+2014-06-18 20:37:48 overwrite css/styles.css 
+2014-06-18 20:38:10 overwrite css/styles.css 
+2014-06-18 20:38:27 overwrite css/styles.css 
+2014-06-18 20:38:43 overwrite css/styles.css 
+2014-06-18 20:38:51 overwrite css/styles.css 
+2014-06-18 20:39:33 overwrite css/styles.css 
+2014-06-18 20:39:43 overwrite css/styles.css 
+2014-06-18 20:41:36 overwrite css/styles.css 
+2014-06-18 20:41:47 overwrite css/styles.css 
+2014-06-18 20:42:04 overwrite css/styles.css 
+2014-06-18 20:42:36 overwrite css/styles.css 
+2014-06-18 20:43:16 overwrite css/styles.css 
+2014-06-18 20:44:39 overwrite css/styles.css 
+2014-06-18 20:45:15 overwrite css/styles.css 
+2014-06-18 20:45:55 overwrite css/styles.css 
+2014-06-18 20:46:06 overwrite css/styles.css 
+2014-06-18 20:46:51 overwrite css/styles.css 
+2014-06-18 20:47:00 overwrite css/styles.css 
+2014-06-18 20:47:07 overwrite css/styles.css 
+2014-06-18 20:47:21 overwrite css/styles.css 
+2014-06-18 20:47:46 overwrite css/styles.css 
+2014-06-18 20:48:19 overwrite css/styles.css 
+2014-06-18 20:48:31 overwrite css/styles.css 
+2014-06-18 21:22:59 overwrite css/styles.css 
+2014-06-18 21:23:35 overwrite css/styles.css 
+2014-06-18 21:25:06 overwrite css/styles.css 
+2014-06-18 21:25:39 overwrite css/styles.css 
+2014-06-18 21:25:59 overwrite css/styles.css 
+2014-06-18 21:26:09 overwrite css/styles.css 
+2014-06-18 21:26:21 overwrite css/styles.css 
+2014-06-18 21:27:31 overwrite css/styles.css 
+2014-06-18 21:27:57 overwrite css/styles.css 
+2014-06-18 21:28:02 overwrite css/styles.css 
+2014-06-18 21:28:24 overwrite css/styles.css 
+2014-06-18 21:28:47 overwrite css/styles.css 
+2014-06-18 21:29:47 overwrite css/styles.css 
+2014-06-18 21:30:11 overwrite css/styles.css 
+2014-06-18 21:32:42 overwrite css/styles.css 
+2014-06-18 21:32:56 overwrite css/styles.css 
+2014-06-18 21:33:11 overwrite css/styles.css 
+2014-06-18 21:33:23 overwrite css/styles.css 
+2014-06-18 21:33:55 overwrite css/styles.css 
+2014-06-18 21:48:48 overwrite css/styles.css 
+2014-06-18 21:49:44 overwrite css/styles.css 
+2014-06-19 00:46:36 overwrite css/styles.css 
+2014-06-19 01:09:49 overwrite css/styles.css 
+2014-06-19 11:42:25 overwrite css/styles.css 
+2014-06-19 11:42:43 overwrite css/styles.css 
+2014-06-19 11:43:04 overwrite css/styles.css 
+2014-06-19 11:47:51 overwrite css/styles.css 
+2014-06-19 11:52:21 overwrite css/styles.css 
+2014-06-19 12:55:15 overwrite css/styles.css 
+2014-06-19 12:58:29 overwrite css/styles.css 
+2014-06-19 13:01:05 overwrite css/styles.css 
+2014-06-19 13:02:41 overwrite css/styles.css 
+2014-06-19 13:03:59 overwrite css/styles.css 
+2014-06-19 13:05:06 overwrite css/styles.css 
+2014-06-19 13:06:15 overwrite css/styles.css 
+2014-06-19 13:06:18 identical css/styles.css 
+2014-06-19 13:07:15 overwrite css/styles.css 
+2014-06-19 13:08:06 overwrite css/styles.css 
+2014-06-19 13:08:29 overwrite css/styles.css 
+2014-06-19 13:09:23 overwrite css/styles.css 
+2014-06-19 13:38:54 overwrite css/styles.css 
+2014-06-19 13:41:51 overwrite css/styles.css 
+2014-06-19 13:49:25 overwrite css/styles.css 
+2014-06-19 14:01:59 overwrite css/styles.css 
+2014-06-19 14:02:46 overwrite css/styles.css 
+2014-06-19 14:26:52 overwrite css/styles.css 
+2014-06-19 14:27:49 overwrite css/styles.css 
+2014-06-19 14:28:08 overwrite css/styles.css 
+2014-06-19 14:28:25 overwrite css/styles.css 
+2014-06-19 14:28:47 overwrite css/styles.css 
+2014-06-19 14:29:16 overwrite css/styles.css 
+2014-06-19 14:29:40 overwrite css/styles.css 
+2014-06-19 14:54:04 overwrite css/styles.css 
+2014-06-19 14:54:18 overwrite css/styles.css 
+2014-06-19 15:04:30 overwrite css/styles.css 
+2014-06-19 15:05:09 overwrite css/styles.css 
+2014-06-19 15:27:53 overwrite css/styles.css 
+2014-06-19 15:37:18 overwrite css/styles.css 
+2014-06-19 16:01:45 overwrite css/styles.css 
+2014-06-19 16:02:00 overwrite css/styles.css 
+2014-06-19 16:02:33 overwrite css/styles.css 
+2014-06-19 16:02:58 overwrite css/styles.css 
+2014-06-19 16:03:22 overwrite css/styles.css 
+2014-06-19 16:03:51 overwrite css/styles.css 
+2014-06-19 16:06:45 overwrite css/styles.css 
+2014-06-19 16:06:59 overwrite css/styles.css 
+2014-06-19 16:07:08 overwrite css/styles.css 
+2014-06-19 16:07:21 overwrite css/styles.css 
+2014-06-19 16:07:29 overwrite css/styles.css 
+2014-06-19 16:07:44 overwrite css/styles.css 
+2014-06-19 16:08:06 overwrite css/styles.css 
+2014-06-19 16:08:15 overwrite css/styles.css 
+2014-06-19 16:08:32 overwrite css/styles.css 
+2014-06-19 16:09:05 overwrite css/styles.css 
+2014-06-19 16:43:16 overwrite css/styles.css 
+2014-06-19 16:45:22 overwrite css/styles.css 
+2014-06-19 16:48:05 overwrite css/styles.css 
+2014-06-19 16:50:51 overwrite css/styles.css 
+2014-06-19 16:51:07     error sass/styles.scss (Line 487: Invalid CSS after "				color: #FFF": expected ";", was ":;")
+2014-06-19 16:51:07 overwrite css/styles.css 
+2014-06-19 16:51:10 overwrite css/styles.css 
+2014-06-19 16:57:10 overwrite css/styles.css 
+2014-06-19 16:57:21 overwrite css/styles.css 
+2014-06-19 16:57:36 overwrite css/styles.css 
+2014-06-19 16:57:55 overwrite css/styles.css 
+2014-06-20 00:13:37 overwrite css/styles.css 
+2014-06-20 00:13:39 identical css/styles.css 
+2014-06-20 00:25:53 overwrite css/styles.css 
+2014-06-20 00:26:31 overwrite css/styles.css 
+2014-06-20 00:30:25 overwrite css/styles.css 
+2014-06-20 00:30:55 overwrite css/styles.css 
+2014-06-20 00:31:10 overwrite css/styles.css 
+2014-06-20 00:31:17 overwrite css/styles.css 
+2014-06-20 00:31:41 overwrite css/styles.css 
+2014-06-20 00:31:52 overwrite css/styles.css 
+2014-06-20 00:32:35 overwrite css/styles.css 
+2014-06-20 00:32:55 overwrite css/styles.css 
+2014-06-20 00:41:30 overwrite css/styles.css 
+2014-06-20 00:41:51 overwrite css/styles.css 
+2014-06-20 00:42:38 overwrite css/styles.css 
+2014-06-20 00:43:05 overwrite css/styles.css 
+2014-06-20 00:43:20 overwrite css/styles.css 
+2014-06-20 00:43:34 overwrite css/styles.css 
+2014-06-20 00:43:45 overwrite css/styles.css 
+2014-06-20 00:45:50 overwrite css/styles.css 
+2014-06-20 00:46:16 overwrite css/styles.css 
+2014-06-20 00:46:33 overwrite css/styles.css 
+2014-06-20 00:47:24 overwrite css/styles.css 
+2014-06-20 00:48:37 overwrite css/styles.css 
+2014-06-20 00:48:57 overwrite css/styles.css 
+2014-06-20 00:49:28 overwrite css/styles.css 
+2014-06-20 00:49:37 overwrite css/styles.css 
+2014-06-20 00:49:43 overwrite css/styles.css 
+2014-06-20 00:49:49 overwrite css/styles.css 
+2014-06-20 00:50:02 overwrite css/styles.css 
+2014-06-20 00:50:12 overwrite css/styles.css 
+2014-06-20 00:51:16 overwrite css/styles.css 
+2014-06-20 00:51:37 overwrite css/styles.css 
+2014-06-20 01:08:29 overwrite css/styles.css 
+2014-06-20 01:12:13 overwrite css/styles.css 
+2014-06-20 01:18:04 overwrite css/styles.css 
+2014-06-20 15:35:44 overwrite css/styles.css 
+2014-06-20 15:36:56 overwrite css/styles.css 
+2014-06-20 15:37:36 overwrite css/styles.css 
+2014-06-20 15:38:02 overwrite css/styles.css 
+2014-06-20 15:38:17 overwrite css/styles.css 
+2014-06-20 15:39:03 overwrite css/styles.css 
+2014-06-20 15:39:37 overwrite css/styles.css 
+2014-06-20 15:40:23 overwrite css/styles.css 
+2014-06-20 15:40:35 overwrite css/styles.css 
+2014-06-20 15:41:11 overwrite css/styles.css 
+2014-06-20 15:41:29 overwrite css/styles.css 
+2014-06-20 15:41:42 overwrite css/styles.css 
+2014-06-20 15:41:56 overwrite css/styles.css 
+2014-06-20 15:42:36 overwrite css/styles.css 
+2014-06-20 15:42:45 overwrite css/styles.css 
+2014-06-20 15:42:48 identical css/styles.css 
+2014-06-20 15:43:53 overwrite css/styles.css 
+2014-06-20 15:44:53 overwrite css/styles.css 
+2014-06-20 15:44:56 overwrite css/styles.css 
+2014-06-20 15:45:03 overwrite css/styles.css 
+2014-06-20 15:51:17 overwrite css/styles.css 
+2014-06-20 15:51:47 overwrite css/styles.css 
+2014-06-20 15:52:05 overwrite css/styles.css 
+2014-06-20 15:52:23 overwrite css/styles.css 
+2014-06-20 16:00:36 overwrite css/styles.css 
+2014-06-20 16:01:56 overwrite css/styles.css 
+2014-06-20 16:02:23 overwrite css/styles.css 
+2014-06-20 16:02:36 overwrite css/styles.css 
+2014-06-20 16:03:03 overwrite css/styles.css 
+2014-06-20 16:03:09 overwrite css/styles.css 
+2014-06-20 16:32:29 overwrite css/styles.css 
+2014-06-20 17:33:46 overwrite css/styles.css 
+2014-06-20 17:34:23 overwrite css/styles.css 
+2014-06-20 17:44:13 overwrite css/styles.css 
+2014-06-20 17:49:48 overwrite css/styles.css 
+2014-06-20 17:50:21 overwrite css/styles.css 
+2014-06-20 17:51:19 overwrite css/styles.css 
+2014-06-20 17:53:37 overwrite css/styles.css 
+2014-06-20 17:54:09 overwrite css/styles.css 
+2014-06-20 17:54:34 overwrite css/styles.css 
+2014-06-20 17:55:18 overwrite css/styles.css 
+2014-06-20 18:13:37 overwrite css/styles.css 
+2014-06-20 18:13:47 overwrite css/styles.css 
+2014-06-20 18:14:39 overwrite css/styles.css 
+2014-06-20 18:15:36 overwrite css/styles.css 
+2014-06-20 18:15:43 overwrite css/styles.css 
+2014-06-20 18:15:53 overwrite css/styles.css 
+2014-06-20 18:18:09 overwrite css/styles.css 
+2014-06-20 18:18:12 overwrite css/styles.css 
+2014-06-20 18:18:30 overwrite css/styles.css 
+2014-06-20 18:19:18 identical css/styles.css 
+2014-06-20 18:19:44 overwrite css/styles.css 
+2014-06-20 18:19:55 overwrite css/styles.css 
+2014-06-20 18:20:13 overwrite css/styles.css 
+2014-06-20 18:21:15 overwrite css/styles.css 
+2014-06-20 18:23:09 overwrite css/styles.css 
+2014-06-20 18:23:26 overwrite css/styles.css 
+2014-06-20 18:23:41 overwrite css/styles.css 
+2014-06-20 18:24:33     error sass/styles.scss (Line 536: Illegal nesting: Only properties may be nested beneath properties.)
+2014-06-20 18:24:33 overwrite css/styles.css 
+2014-06-20 18:24:39 overwrite css/styles.css 
+2014-06-20 18:24:57 overwrite css/styles.css 
+2014-06-20 18:25:21 overwrite css/styles.css 
+2014-06-20 18:26:09 overwrite css/styles.css 
+2014-06-20 18:26:16 overwrite css/styles.css 
+2014-06-20 18:30:19 overwrite css/styles.css 
+2014-06-20 18:30:54 overwrite css/styles.css 
+2014-06-20 18:31:34 overwrite css/styles.css 
+2014-06-20 18:31:42 overwrite css/styles.css 
+2014-06-20 18:34:01 overwrite css/styles.css 
+2014-06-20 18:35:13 overwrite css/styles.css 
+2014-06-20 18:35:28 overwrite css/styles.css 
+2014-06-20 18:35:40 overwrite css/styles.css 
+2014-06-20 18:45:30 overwrite css/styles.css 
+2014-06-20 18:46:17 overwrite css/styles.css 
+2014-06-20 18:46:54 overwrite css/styles.css 
+2014-06-20 18:47:19 overwrite css/styles.css 
+2014-06-20 18:47:54 overwrite css/styles.css 
+2014-06-20 18:49:01 overwrite css/styles.css 
+2014-06-20 18:49:46 overwrite css/styles.css 
+2014-06-20 18:50:52 overwrite css/styles.css 
+2014-06-20 18:51:02 overwrite css/styles.css 
+2014-06-20 18:51:39 overwrite css/styles.css 
+2014-06-20 18:52:47 overwrite css/styles.css 
+2014-06-20 18:52:56 overwrite css/styles.css 
+2014-06-20 18:53:20 overwrite css/styles.css 
+2014-06-20 18:53:54 overwrite css/styles.css 
+2014-06-20 18:53:57 identical css/styles.css 
+2014-06-20 18:54:30 overwrite css/styles.css 
+2014-06-20 18:55:08 overwrite css/styles.css 
+2014-06-20 18:55:50 overwrite css/styles.css 
+2014-06-20 19:08:38 overwrite css/styles.css 
+2014-06-20 19:08:50 overwrite css/styles.css 
+2014-06-20 19:09:38 overwrite css/styles.css 
+2014-06-20 19:20:57 overwrite css/styles.css 
+2014-06-20 19:22:29 overwrite css/styles.css 
+2014-06-20 19:22:38 overwrite css/styles.css 
+2014-06-20 19:22:48 overwrite css/styles.css 
+2014-06-20 19:23:27 overwrite css/styles.css 
+2014-06-20 19:23:45 overwrite css/styles.css 
+2014-06-20 19:24:18 overwrite css/styles.css 
+2014-06-20 19:24:41 overwrite css/styles.css 
+2014-06-20 19:24:47 overwrite css/styles.css 
+2014-06-20 19:26:18 overwrite css/styles.css 
+2014-06-20 19:26:40 overwrite css/styles.css 
+2014-06-20 19:26:48 overwrite css/styles.css 
+2014-06-20 19:26:57 overwrite css/styles.css 
+2014-06-20 19:28:29 overwrite css/styles.css 
+2014-06-20 19:28:41 overwrite css/styles.css 
+2014-06-20 19:28:54 overwrite css/styles.css 
+2014-06-20 19:29:09 overwrite css/styles.css 
+2014-06-20 19:29:18 overwrite css/styles.css 
+2014-06-20 19:48:19     error sass/styles.scss (Line 543: Invalid CSS after "			left:": expected expression (e.g. 1px, bold), was "}")
+2014-06-20 19:48:19 overwrite css/styles.css 
+2014-06-20 19:48:36 overwrite css/styles.css 
+2014-06-20 19:48:43 overwrite css/styles.css 
+2014-06-20 19:49:51 overwrite css/styles.css 
+2014-06-20 19:58:31 overwrite css/styles.css 
+2014-06-20 20:02:21 overwrite css/styles.css 
+2014-06-20 20:02:42 overwrite css/styles.css 
+2014-06-20 20:03:45 overwrite css/styles.css 
+2014-06-20 20:04:22 overwrite css/styles.css 
+2014-06-20 20:04:54 overwrite css/styles.css 
+2014-06-20 20:06:25 overwrite css/styles.css 
+2014-06-20 20:06:51 overwrite css/styles.css 
+2014-06-20 20:08:27 overwrite css/styles.css 
+2014-06-20 20:08:57 overwrite css/styles.css 
+2014-06-20 20:09:43 overwrite css/styles.css 
+2014-06-20 20:10:34 overwrite css/styles.css 
+2014-06-20 20:11:06 overwrite css/styles.css 
+2014-06-20 20:11:12 overwrite css/styles.css 
+2014-06-20 20:12:42 overwrite css/styles.css 
+2014-06-20 20:13:43 overwrite css/styles.css 
+2014-06-20 20:14:15 overwrite css/styles.css 
+2014-06-20 20:14:33 overwrite css/styles.css 
+2014-06-20 20:15:39 overwrite css/styles.css 
+2014-06-20 20:16:00 overwrite css/styles.css 
+2014-06-20 20:16:13 overwrite css/styles.css 
+2014-06-20 20:16:27 overwrite css/styles.css 
+2014-06-20 20:16:58 overwrite css/styles.css 
+2014-06-20 20:17:39 overwrite css/styles.css 
+2014-06-20 20:18:09 overwrite css/styles.css 
+2014-06-20 20:18:28 overwrite css/styles.css 
+2014-06-20 20:19:09 overwrite css/styles.css 
+2014-06-20 20:19:21 overwrite css/styles.css 
+2014-06-20 20:21:30 overwrite css/styles.css 
+2014-06-20 20:21:44 overwrite css/styles.css 
+2014-06-20 20:24:04 overwrite css/styles.css 
+2014-06-20 20:24:12 overwrite css/styles.css 
+2014-06-20 20:24:39 overwrite css/styles.css 
+2014-06-20 20:34:21 overwrite css/styles.css 
+2014-06-20 20:35:21 overwrite css/styles.css 
+2014-06-20 20:35:52 overwrite css/styles.css 
+2014-06-20 20:36:03 overwrite css/styles.css 
+2014-06-20 20:36:23 overwrite css/styles.css 
+2014-06-20 20:36:38 overwrite css/styles.css 
+2014-06-20 20:37:08 overwrite css/styles.css 
+2014-06-20 20:37:32 overwrite css/styles.css 
+2014-06-20 20:40:20 overwrite css/styles.css 
+2014-06-20 20:42:03 overwrite css/styles.css 
+2014-06-20 20:43:02 overwrite css/styles.css 
+2014-06-20 20:43:23 overwrite css/styles.css 
+2014-06-20 20:43:30 overwrite css/styles.css 
+2014-06-20 20:43:54 overwrite css/styles.css 
+2014-06-20 20:44:26 overwrite css/styles.css 
+2014-06-20 20:44:35 overwrite css/styles.css 
+2014-06-20 20:44:51 overwrite css/styles.css 
+2014-06-20 20:45:04 overwrite css/styles.css 
+2014-06-20 20:45:20 overwrite css/styles.css 
+2014-06-20 20:45:54 overwrite css/styles.css 
+2014-06-21 00:25:11 overwrite css/styles.css 
+2014-06-21 00:25:42 overwrite css/styles.css 
+2014-06-21 00:26:09 overwrite css/styles.css 
+2014-06-21 00:26:59 overwrite css/styles.css 
+2014-06-21 00:27:30 overwrite css/styles.css 
+2014-06-21 00:28:17 overwrite css/styles.css 
+2014-06-21 00:28:27 overwrite css/styles.css 
+2014-06-21 00:28:44 overwrite css/styles.css 
+2014-06-21 00:34:33 overwrite css/styles.css 
+2014-06-21 00:39:38 overwrite css/styles.css 
+2014-06-21 00:41:05 overwrite css/styles.css 
+2014-06-21 00:41:54 overwrite css/styles.css 
+2014-06-21 00:42:14 overwrite css/styles.css 
+2014-06-21 00:43:51 overwrite css/styles.css 
+2014-06-21 00:44:02 overwrite css/styles.css 
+2014-06-21 00:44:12 overwrite css/styles.css 
+2014-06-21 00:44:21 overwrite css/styles.css 
+2014-06-21 00:44:28 overwrite css/styles.css 
+2014-06-21 00:45:46 overwrite css/styles.css 
+2014-06-21 00:46:25 overwrite css/styles.css 
+2014-06-21 00:46:58 overwrite css/styles.css 
+2014-06-21 00:56:53 overwrite css/styles.css 
+2014-06-21 01:41:27 overwrite css/styles.css 
+2014-06-21 01:42:17 overwrite css/styles.css 
+2014-06-21 01:42:23 overwrite css/styles.css 
+2014-06-21 01:42:51 overwrite css/styles.css 
+2014-06-21 01:43:11 overwrite css/styles.css 
+2014-06-21 01:44:43     error sass/styles.scss (Line 750: Invalid CSS after "	}": expected selector or at-rule, was "}")
+2014-06-21 01:44:43 overwrite css/styles.css 
+2014-06-21 01:45:34 overwrite css/styles.css 
+2014-06-21 01:47:47 overwrite css/styles.css 
+2014-06-21 01:48:51 overwrite css/styles.css 
+2014-06-21 01:49:00 overwrite css/styles.css 
+2014-06-21 01:49:33 overwrite css/styles.css 
+2014-06-21 01:49:46 overwrite css/styles.css 
+2014-06-21 10:47:19 overwrite css/styles.css 
+2014-06-21 11:08:48 overwrite css/styles.css 
+2014-06-21 11:12:31 overwrite css/styles.css 
+2014-06-21 11:12:43 overwrite css/styles.css 
+2014-06-21 11:14:17 overwrite css/styles.css 
+2014-06-21 11:14:26 overwrite css/styles.css 
+2014-06-21 11:14:36 overwrite css/styles.css 
+2014-06-21 11:15:02 overwrite css/styles.css 
+2014-06-21 11:20:51 overwrite css/styles.css 
+2014-06-21 11:21:04 overwrite css/styles.css 
+2014-06-21 11:21:45 overwrite css/styles.css 
+2014-06-21 11:22:00 overwrite css/styles.css 
+2014-06-21 11:22:11 overwrite css/styles.css 
+2014-06-21 11:22:37 overwrite css/styles.css 
+2014-06-21 11:22:46 overwrite css/styles.css 
+2014-06-21 11:22:55 overwrite css/styles.css 
+2014-06-21 11:23:03 overwrite css/styles.css 
+2014-06-21 11:23:19 overwrite css/styles.css 
+2014-06-21 11:25:36 overwrite css/styles.css 
+2014-06-21 11:26:46 overwrite css/styles.css 
+2014-06-21 11:39:21 overwrite css/styles.css 
+2014-06-21 11:39:39 overwrite css/styles.css 
+2014-06-21 11:40:04 overwrite css/styles.css 
+2014-06-21 11:40:18 overwrite css/styles.css 
+2014-06-21 11:42:00 overwrite css/styles.css 
+2014-06-21 11:42:27 overwrite css/styles.css 
+2014-06-21 11:50:21 overwrite css/styles.css 
+2014-06-21 11:50:39 overwrite css/styles.css 
+2014-06-21 11:50:58 overwrite css/styles.css 
+2014-06-21 11:51:10 overwrite css/styles.css 
+2014-06-21 12:15:45 overwrite css/styles.css 
+2014-06-22 00:15:07 overwrite css/styles.css 
+2014-06-22 00:17:11 overwrite css/styles.css 
+2014-06-22 00:17:44 overwrite css/styles.css 
+2014-06-22 00:18:15 overwrite css/styles.css 
+2014-06-22 00:18:35 overwrite css/styles.css 
+2014-06-22 00:23:45 overwrite css/styles.css 
+2014-06-22 00:23:56 overwrite css/styles.css 
+2014-06-22 00:24:26 overwrite css/styles.css 
+2014-06-22 00:25:11 overwrite css/styles.css 
+2014-06-22 00:25:27 overwrite css/styles.css 
+2014-06-22 00:25:57 overwrite css/styles.css 
+2014-06-22 00:26:11 overwrite css/styles.css 
+2014-06-22 00:48:43 overwrite css/styles.css 
+2014-06-22 00:49:10 overwrite css/styles.css 
+2014-06-22 00:50:25 overwrite css/styles.css 
+2014-06-22 00:50:40 overwrite css/styles.css 
+2014-06-22 01:02:28 overwrite css/styles.css 
+2014-06-22 01:02:34 overwrite css/styles.css 
+2014-06-22 01:03:07 overwrite css/styles.css 
+2014-06-22 01:06:24     error sass/styles.scss (Line 201: Illegal nesting: Only properties may be nested beneath properties.)
+2014-06-22 01:06:24 overwrite css/styles.css 
+2014-06-22 01:06:29 overwrite css/styles.css 
+2014-06-22 11:39:55 overwrite css/styles.css 
+2014-06-22 11:43:52 overwrite css/styles.css 
+2014-06-22 11:44:29 overwrite css/styles.css 
+2014-06-22 11:45:21 overwrite css/styles.css 
+2014-06-22 11:46:54 overwrite css/styles.css 
+2014-06-22 11:47:27 overwrite css/styles.css 
+2014-06-22 11:48:12 overwrite css/styles.css 
+2014-06-22 16:27:46 overwrite css/styles.css 
+2014-06-22 16:31:07 overwrite css/styles.css 
+2014-06-22 16:31:17 overwrite css/styles.css 
+2014-06-22 16:31:26 overwrite css/styles.css 
+2014-06-22 16:31:35 overwrite css/styles.css 
+2014-06-22 16:31:46 overwrite css/styles.css 
+2014-06-22 18:35:05 overwrite css/styles.css 
+2014-06-22 18:37:47 overwrite css/styles.css 
+2014-06-22 18:37:59 overwrite css/styles.css 
+2014-06-22 18:40:17 overwrite css/styles.css 
+2014-06-22 18:40:32 overwrite css/styles.css 
+2014-06-22 18:42:05 overwrite css/styles.css 
+2014-06-22 18:43:33 overwrite css/styles.css 
+2014-06-22 18:43:55 overwrite css/styles.css 
+2014-06-22 18:45:39 overwrite css/styles.css 
+2014-06-22 18:45:50 overwrite css/styles.css 
+2014-06-22 18:46:05 overwrite css/styles.css 
+2014-06-22 19:32:08 overwrite css/styles.css 
+2014-06-22 19:32:22 overwrite css/styles.css 
+2014-06-22 21:46:30 overwrite css/styles.css 
+2014-06-22 21:46:50 overwrite css/styles.css 
+2014-06-22 21:48:00 overwrite css/styles.css 
+2014-06-22 21:48:23 overwrite css/styles.css 
+2014-06-22 21:48:57 overwrite css/styles.css 
+2014-06-22 21:50:01 overwrite css/styles.css 
+2014-06-22 21:50:40 overwrite css/styles.css 
+2014-06-22 21:52:12 overwrite css/styles.css 
+2014-06-22 21:52:28 overwrite css/styles.css 
+2014-06-22 21:52:44 overwrite css/styles.css 
+2014-06-22 21:52:58 overwrite css/styles.css 
